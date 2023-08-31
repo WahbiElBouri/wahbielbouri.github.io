@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Virtual Vascular Human Group # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Wahbi
-middle_name: 
+middle_name: K.
 last_name: El-Bouri
 email: w.el-bouri@liverpool.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
